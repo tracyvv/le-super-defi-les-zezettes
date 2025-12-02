@@ -18,6 +18,6 @@ dossier css
 
 on pourra ajouter du php si vous voulez
 
-je vais créer un checklist pour savoir où on en est
+je vais créer une checklist pour savoir où on en est
 
 bisoux les zezettes
