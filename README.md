@@ -29,16 +29,16 @@ bisoux les zezettes
 ## La checklist :
 
 ### HTML
-- [] créer les dossiers html
-- [] créer les fichiers html
-- [] faire le header html
-- [] faire le footer html
-- [] contenu page d'accueil
-- [] contenu page concours
+- [ ] créer les dossiers html
+- [ ] créer les fichiers html
+- [ ] faire le header html
+- [ ] faire le footer html
+- [ ] contenu page d'accueil
+- [ ] contenu page concours
 
 ### CSS
-- [] créer le fichier css
-- [] css du header
-- [] css du footer
-- [] css page d'accueil
-- [] css page concours
+- [ ] créer le fichier css
+- [ ] css du header
+- [ ] css du footer
+- [ ] css page d'accueil
+- [ ] css page concours
