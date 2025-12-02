@@ -29,7 +29,8 @@ bisoux les zezettes
 ## La checklist :
 
 ### HTML
-- [ ] créer les dossiers html
+- [ ] créer un dossiers html
+- [ ] créer un dossier photos
 - [ ] créer les fichiers html
 - [ ] faire le header html
 - [ ] faire le footer html
