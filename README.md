@@ -11,12 +11,15 @@ voila l'exemple du prof :  https://emmanuelrauzy.alwaysdata.net/Motte
 dossier html
 - index.html
 - concours.html
+dans chaque page il faut :
+- un header
+- un footer
 
 dossier css
 - style.css
---> au moins 4 classes css
+--> au moins 4 classes css (à Maelys et Ambre de choisir, il faut vous mettre d'accord pour que vous utilisiez les mêmes)
 
-on pourra ajouter du php si vous voulez
+on pourra ajouter du php si vous le sentez
 
 je vais créer une checklist pour savoir où on en est
 
