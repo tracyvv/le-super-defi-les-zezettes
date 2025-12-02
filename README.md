@@ -26,9 +26,9 @@ je vais créer une checklist pour savoir où on en est
 bisoux les zezettes
 
 
-### La checklist :
+## La checklist :
 
-##### HTML
+### HTML
 - [] créer les dossiers html
 - [] créer les fichiers html
 - [] faire le header html
@@ -36,7 +36,7 @@ bisoux les zezettes
 - [] contenu page d'accueil
 - [] contenu page concours
 
-##### CSS
+### CSS
 - [] créer le fichier css
 - [] css du header
 - [] css du footer
