@@ -1,0 +1,65 @@
+body {
+    font-family: "Segoe UI", Arial, sans-serif;
+    background: linear-gradient(to bottom, #e8f5e9, #ffffff);
+    color: #2e4635;
+    margin: 0;
+    padding: 40px;
+    line-height: 1.7;
+}
+
+/* --- Titre principal --- */
+h1 {
+    text-align: center;
+    font-size: 2.8em;
+    color: #1b5e20;
+    margin-bottom: 25px;
+}
+
+/* --- Sous-titres --- */
+h2 {
+    color: #2e7d32;
+    font-size: 1.6em;
+    margin-top: 40px;
+    border-left: 6px solid #66bb6a;
+    padding-left: 12px;
+}
+
+/* --- Paragraphes --- */
+p {
+    font-size: 1.15em;
+    max-width: 700px;
+    margin-bottom: 20px;
+}
+
+/* --- Liste des exemples --- */
+ul {
+    background-color: #c8e6c9;
+    padding: 20px;
+    border-radius: 10px;
+    max-width: 300px;
+    list-style: disc inside;
+    box-shadow: 0 3px 10px rgba(0, 0, 0, 0.1);
+}
+
+li {
+    margin: 8px 0;
+    font-size: 1.1em;
+}
+
+/* --- Lien de retour --- */
+a {
+    display: inline-block;
+    margin-top: 30px;
+    text-decoration: none;
+    background-color: #2e7d32;
+    color: white;
+    padding: 12px 18px;
+    border-radius: 6px;
+    font-weight: bold;
+    transition: 0.3s ease;
+}
+
+a:hover {
+    background-color: #1b5e20;
+    transform: scale(1.05);
+}
